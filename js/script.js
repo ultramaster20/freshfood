@@ -314,7 +314,7 @@ const modalTrigger = document.querySelectorAll('[data-modal]'),
 		.then(data => data.json())
 		.then(res => console.log(res));
 
-	////Slider вариант 1 практика
+     //Slider вариант 1 практика
 	//let slideIndex = 1;
 	//const slides = document.querySelectorAll('.offer__slide'),
 	//		prev = document.querySelector('.offer__slider-prev'),
