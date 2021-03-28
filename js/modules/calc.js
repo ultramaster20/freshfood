@@ -1,4 +1,4 @@
-function tabs() {
+function calc() {
 // Calculator практика
 
 const result = document.querySelector('.calculating__result span');
@@ -107,4 +107,5 @@ getDynamicInformation('#weight');
 getDynamicInformation('#age');
 }
 
-module.exports = tabs;
+//module.exports = calc;
+export default calc;
