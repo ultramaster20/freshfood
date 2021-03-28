@@ -1,7 +1,6 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,11 @@
   "homepage": "https://github.com/ultramaster20/food#readme",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "keywords": [],
+  "description": ""
 }
